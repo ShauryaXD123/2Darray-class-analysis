@@ -111,7 +111,7 @@ Adds **+5 grace marks** to all students using NumPy broadcasting.
 2. Run the script:
 
    ```bash
-   python script.py
+   python main.py
    ```
 
 ---
